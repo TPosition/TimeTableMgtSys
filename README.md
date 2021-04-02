@@ -1,8 +1,8 @@
 # TimeTableMgtSys
 A timetable Management System for Courses, University and Colleague.
 
-###Demo
-https://drive.google.com/file/d/1UTslKc2EdMRCNwwW1PmwavTrxwcyuG4v/view?usp=sharing
+### Demo
+https://drive.google.com/drive/folders/1FzMNvgscmNDGsJCpRP7ra9CRvy3KquwZ?usp=sharing
 
 ### Features:
 1. Login system with RECAPTCHA
