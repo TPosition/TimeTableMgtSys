@@ -1,0 +1,118 @@
+body{
+	background-image: url("bg.jpg");
+	font: 14px sans-serif; 	
+	
+}
+
+.border{
+	position:absolute;
+	height:90%;
+	width:35%;
+	background-color:#EFEFF5;
+	top:10%;
+	left:33%;
+	border-radius:5px 0px 5px 5px;
+	border: 1 solid black;
+	box-shadow: 2px -4px 0px 0px white;
+	
+}
+
+
+.logo img{
+	position: relative;
+	height:30%;  
+	width:80%;
+	left: 10%;
+}
+	
+.wrapper{
+	position:absolute;
+	height:90%;
+	width:35%;
+	background-color:#EFEFF5;
+	top:2%;
+	left:33%;
+	border-radius:5px 0px 5px 5px;
+	border: 1 solid black;
+	box-shadow: 2px -4px 0px 0px white;
+	
+}
+
+.login	{
+	position:absolute;
+	top:40%;
+}
+
+.name{
+	position:relative;
+	top:50%	;
+}
+
+.form-group col-sm-offset-2 col-sm-10{
+	left: 100%;
+
+}
+
+.form-group input	{
+	width:100%;
+
+}
+
+.abutton {
+  
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 5px;
+  cursor: pointer;
+  position:relative;
+`top:100px;
+  
+}
+
+.abutton:hover{
+	  background-color: #3e8e41;
+      color: white;
+}
+.abutton a:hover{
+	background-color: #3e8e41;
+    color: white;
+}
+.abutton b:hover{
+	background-color: #3e8e41;
+    color: white;
+}
+
+h3{
+	top:20px;
+	position:relative;
+}
+
+.button {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 5px;
+  cursor: pointer;
+  position:relative;
+  top:10px;
+  
+}
+
+.position{
+	top:-80px;
+
+
+
+}
+
+.dposition{
+	top:20px;
+	position:relative;
+}

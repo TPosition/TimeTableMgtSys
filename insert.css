@@ -1,0 +1,93 @@
+body{
+	background-image: url("bg.jpg");
+	color: #18188C;
+}
+
+.abutton {
+  
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 5px;
+  cursor: pointer;
+  position:relative;
+
+}
+
+.abutton:hover{
+	  background-color: #3e8e41;
+      color: white;
+}
+.abutton a:hover{
+	background-color: #3e8e41;
+    color: white;
+}
+
+.wrapper{
+	position:absolute;
+	height:95%;
+	width:100%;
+	background-color:white;
+	top:5%;
+	left:0%;
+	border-radius:5px 0px 5px 5px;
+	border: 1 solid black;
+	box-shadow: 2px -4px 0px 0px white;
+	
+	
+}
+
+.enter input{
+	height:30px;
+	width:400px;
+}
+
+.submit{
+	height: 40px;
+	width:150px;
+}
+
+.subIcon input{
+	position:relative;
+	left:770px;
+	top:-20px;
+}
+
+.select-style {
+    border: 1px solid #ccc;
+    width: 250px;
+	height: 40px;
+    border-radius: 3px;
+    overflow: hidden;
+    background: #fafafa url("img/icon-select.png") no-repeat 90% 50%;
+}
+
+.select-style select {
+    padding: 15px 30px;
+    width: 130%;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+}
+
+.select-style select:focus {
+    outline: none;
+}
+
+.select{
+	
+	width: 250px;
+	height: 20px;
+	display:inline-block;
+	
+	
+}
+.enter{
+	
+	
+}
